@@ -1,0 +1,15 @@
+candidate_id	parent_id	timestamp	score	valid	f_res_thz	abs_at_res	freq_error	abs_penalty	solve_status	solve_duration_s	status	note
+0001	root	2026-03-16T03:23:39	0.414400	true	0.814400	0.9998	0.414400	0.0000	success	25.3	keep	baseline
+0002	0001	2026-03-16T03:24:36	0.308800	true	0.708800	0.9994	0.308800	0.0000	success	25.2	keep	outer_srr: 45.0->50.0, p: 50.0->52.0 | The current resonance frequency is significantly higher than
+0003	0002	2026-03-16T03:25:36	0.256000	true	0.656000	1.0000	0.256000	0.0000	success	30.2	keep	outer_srr: 50.0->55.0, p: 52.0->57.0 | The current resonance frequency is significantly higher than
+0004	0003	2026-03-16T03:26:32	0.222400	true	0.622400	0.9989	0.222400	0.0000	success	25.1	keep	outer_srr: 55.0->58.0, p: 57.0->60.0 | The current resonance frequency is 0.656 THz, which is signi
+0005	0004	2026-03-16T03:27:43	0.198400	true	0.598400	1.0000	0.198400	0.0000	success	40.1	keep	outer_srr: 58.0->61.0, p: 60.0->63.0 | The current resonance frequency is 0.622400 THz, which is si
+0006	0005	2026-03-16T03:28:44	0.169600	true	0.569600	0.9999	0.169600	0.0000	success	30.2	keep	outer_srr: 61.0->64.0, p: 63.0->66.0 | The current resonance frequency is still higher than the tar
+0007	0006	2026-03-16T03:29:45	0.140800	true	0.540800	1.0000	0.140800	0.0000	success	30.1	keep	outer_srr: 64.0->67.0, p: 66.0->69.0 | The current resonance frequency is still too high at 0.56960
+0008	0007	2026-03-16T03:30:45	0.116800	true	0.516800	0.9994	0.116800	0.0000	success	30.1	keep	outer_srr: 67.0->70.0, p: 69.0->72.0 | The current resonance frequency is still higher than the tar
+0009	0008	2026-03-16T03:31:56	0.092800	true	0.492800	0.9991	0.092800	0.0000	success	40.2	keep	p: 72.0->75.0, outer_srr: 70.0->73.0, gap: 0.6->0.5 | The current resonance frequency is still highe
+0010	0009	2026-03-16T03:32:53	0.064000	true	0.464000	0.9992	0.064000	0.0000	success	26.6	keep	outer_srr: 73.0->76.0, p: 75.0->78.0 | The current resonance frequency is still higher than the tar
+0011	0010	2026-03-16T03:33:49	0.049600	true	0.449600	1.0000	0.049600	0.0000	success	25.1	keep	outer_srr: 76.0->78.0, p: 78.0->80.0, length_arm: 25.0->27.0 | The current resonance frequency is sl
+0012	0011	2026-03-16T03:35:35	0.040000	true	0.440000	0.9993	0.040000	0.0000	success	75.3	keep	outer_srr: 78.0->80.0, p: 80.0->82.0 | The current resonance frequency is 0.449600 THz, which is hi
+0013	0012	2026-03-16T03:37:01	0.025600	true	0.425600	0.9998	0.025600	0.0000	success	55.3	keep	outer_srr: 80.0->81.0, p: 82.0->83.0, gap: 0.5->0.45 | The current resonance is slightly above the t
+0014	0013	2026-03-16T03:38:47	0.001600	true	0.401600	0.9985	0.001600	0.0000	success	75.3	keep	outer_srr: 81.0->82.0, p: 83.0->84.0, gap: 0.45->0.42 | The current design is very close to the targ
