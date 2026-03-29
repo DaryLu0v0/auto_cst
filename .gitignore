@@ -1,0 +1,12 @@
+# CST project working files (large binary directory)
+Ge_Abs_CWC_5x5_run10 (1)/
+
+# Export CSVs (regenerable from CST runs)
+auto_cst_broad/exports/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Claude local settings
+.claude/
