@@ -1,8 +1,8 @@
 # CST project working files (large binary directory)
 Ge_Abs_CWC_5x5_run10 (1)/
 
-# Export CSVs (regenerable from CST runs)
-auto_cst_broad/exports/
+# Export CSVs -- kept in git to preserve simulation results
+# auto_cst_broad/exports/
 
 # Python cache
 __pycache__/
