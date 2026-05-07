@@ -1,0 +1,25 @@
+{
+  "candidate_id": "0001",
+  "parent_id": "root",
+  "timestamp": "2026-05-07T03:40:23",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 500.0,
+    "t_top": 12.0,
+    "d": 267.0,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 300.0,
+    "abs_at_peak": 0.044980456269033464,
+    "fwhm_thz": NaN,
+    "score": 106.76100390874619,
+    "freq_error": 106.59,
+    "abs_penalty": 0.8550195437309666,
+    "solve_duration_s": 30.05100655555725,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-39-25\\hypothesis_C_planar\\iteration_00\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-39-25\\hypothesis_C_planar\\iteration_00\\SZmax2_Zmax2.csv"
+  },
+  "note": "baseline"
+}

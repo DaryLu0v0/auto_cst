@@ -1,0 +1,10 @@
+candidate_id	parent_id	timestamp	score	valid	f_peak_thz	abs_at_peak	freq_error	abs_penalty	solve_duration_s	status	note
+0001	root	2026-05-07T02:12:22	39.989994	true	233.4000	0.9912	39.9900	0.0000	89.1	ok	baseline
+0002	0001	2026-05-07T02:14:49	6.789997	true	200.2000	0.9946	6.7900	0.0000	84.8	ok	p: 993.59->1200.0, r: 457.05->548.46 | To accommodate the larger disk radius of 548.46 nm without v
+0003	0002	2026-05-07T02:17:27	11.789997	true	205.2000	0.9819	11.7900	0.0000	96.9	ok	r: 548.46->530.0 | The current peak frequency is 200.20 THz, which is higher th
+0004	0002	2026-05-07T02:19:50	81.790012	true	275.2000	0.9949	81.7900	0.0000	88.5	ok	r: 548.46->520.0 | The peak frequency is currently at 205.20 THz, which is high
+0005	0002	2026-05-07T02:21:43	40.190006	true	233.6000	0.9395	40.1900	0.0000	80.2	ok	r: 548.46->575.0 | The previous attempts to decrease the radius r resulted in a
+0006	0002	2026-05-07T02:23:38	40.789997	true	234.2000	0.9395	40.7900	0.0000	80.2	ok	r: 548.46->570.0 | The current peak frequency is significantly higher than the 
+0007	0002	2026-05-07T02:25:59	5.210003	true	188.2000	0.9979	5.2100	0.0000	96.3	ok	p: 1200.0->1300.0, r: 548.46->590.0 | To increase the disk radius r to 590.0 nm, we must also incr
+0008	0007	2026-05-07T02:28:08	7.809994	true	185.6000	0.9750	7.8100	0.0000	94.8	ok	r: 590.0->600.0 | The current peak frequency is 188.20 THz, which is lower tha
+0009	0007	2026-05-07T02:30:11	0.609997	true	192.8000	0.9994	0.6100	0.0000	74.5	ok	r: 590.0->580.0, d: 112.61->100.0 | The current peak frequency is 185.60 THz, which is lower tha

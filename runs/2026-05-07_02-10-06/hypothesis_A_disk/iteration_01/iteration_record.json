@@ -1,0 +1,26 @@
+{
+  "candidate_id": "0002",
+  "parent_id": "0001",
+  "timestamp": "2026-05-07T02:14:49",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1200.0,
+    "r": 548.46,
+    "h": 105.98,
+    "d": 112.61,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 200.1999969482422,
+    "abs_at_peak": 0.9946169879693655,
+    "fwhm_thz": 12.378868601456617,
+    "score": 6.789996948242191,
+    "freq_error": 6.789996948242191,
+    "abs_penalty": 0.0,
+    "solve_duration_s": 84.80442929267883,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_01\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_01\\SZmax1_Zmax1.csv"
+  },
+  "note": "p: 993.59->1200.0, r: 457.05->548.46 | To accommodate the larger disk radius of 548.46 nm without v"
+}

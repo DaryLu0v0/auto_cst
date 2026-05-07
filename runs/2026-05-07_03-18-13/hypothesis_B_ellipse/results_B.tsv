@@ -1,0 +1,12 @@
+candidate_id	parent_id	timestamp	score	valid	f_peak_thz	abs_at_peak	freq_error	abs_penalty	solve_duration_s	status	note
+0001	root	2026-05-07T03:19:22	88.607784	true	282.0000	0.8111	88.5900	0.0889	40.1	ok	baseline
+0002	0001	2026-05-07T03:20:22	88.190006	true	281.6000	0.9860	88.1900	0.0000	30.0	ok	lx: 1100.0->500.0 | The current peak frequency is significantly higher than the 
+0003	0002	2026-05-07T03:21:21	94.991499	true	288.4000	0.8925	94.9900	0.0075	30.1	ok	lx: 500.0->700.0 | The current peak frequency is significantly higher than the 
+0004	0002	2026-05-07T03:22:21	88.590000	true	282.0000	0.9929	88.5900	0.0000	30.0	ok	lx: 500.0->400.0 | The current peak frequency is significantly higher than the 
+0005	0002	2026-05-07T03:23:31	88.989994	true	282.4000	1.0000	88.9900	0.0000	40.1	ok	lx: 500.0->300.0 | The current peak frequency is significantly higher than the 
+0006	0002	2026-05-07T03:24:42	105.590042	true	299.0000	0.8998	105.5900	0.0002	40.1	ok	ly: 900.0->450.0 | The current design shows that changes in lx have not signifi
+0007	0002	2026-05-07T03:25:51	75.590000	true	269.0000	0.9822	75.5900	0.0000	40.1	ok	ly: 900.0->1000.0 | The current peak frequency is significantly higher than the 
+0008	0007	2026-05-07T03:27:13	22.010006	true	171.4000	0.9980	22.0100	0.0000	50.1	ok	p: 1300.0->1400.0, ly: 1000.0->1300.0, d: 100.0->200.0 | To increase ly to 1300 nm without violating the constraint, 
+0009	0008	2026-05-07T03:28:23	23.010006	true	170.4000	0.9979	23.0100	0.0000	40.1	ok	lx: 500.0->550.0 | The current peak frequency of 171.4 THz is significantly low
+0010	0008	2026-05-07T03:29:32	23.809994	true	169.6000	0.9963	23.8100	0.0000	40.1	ok	lx: 500.0->600.0 | The current peak frequency is at 170.4 THz, which is signifi
+0011	0008	2026-05-07T03:30:42	13.031961	true	180.4000	0.7902	13.0100	0.1098	40.1	ok	ly: 1300.0->1100.0 | The current design indicates that changes in lx have not eff

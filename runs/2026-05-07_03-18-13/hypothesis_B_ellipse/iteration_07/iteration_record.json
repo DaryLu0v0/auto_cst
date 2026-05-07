@@ -1,0 +1,27 @@
+{
+  "candidate_id": "0008",
+  "parent_id": "0007",
+  "timestamp": "2026-05-07T03:27:13",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1400.0,
+    "lx": 500.0,
+    "ly": 1300.0,
+    "h": 100.0,
+    "d": 200.0,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 171.39999389648438,
+    "abs_at_peak": 0.9979814058696302,
+    "fwhm_thz": 6.359275731842843,
+    "score": 22.01000610351562,
+    "freq_error": 22.01000610351562,
+    "abs_penalty": 0.0,
+    "solve_duration_s": 50.10177183151245,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_07\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_07\\SZmax1_Zmax1.csv"
+  },
+  "note": "p: 1300.0->1400.0, ly: 1000.0->1300.0, d: 100.0->200.0 | To increase ly to 1300 nm without violating the constraint, "
+}

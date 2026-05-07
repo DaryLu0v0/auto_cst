@@ -1,0 +1,26 @@
+{
+  "candidate_id": "0004",
+  "parent_id": "0002",
+  "timestamp": "2026-05-07T02:19:50",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1200.0,
+    "r": 520.0,
+    "h": 105.98,
+    "d": 112.61,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 275.20001220703125,
+    "abs_at_peak": 0.9949244456455947,
+    "fwhm_thz": 10.811615252574029,
+    "score": 81.79001220703125,
+    "freq_error": 81.79001220703125,
+    "abs_penalty": 0.0,
+    "solve_duration_s": 88.51387429237366,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_03\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_03\\SZmax1_Zmax1.csv"
+  },
+  "note": "r: 548.46->520.0 | The peak frequency is currently at 205.20 THz, which is high"
+}

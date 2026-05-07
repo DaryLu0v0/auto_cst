@@ -1,0 +1,26 @@
+{
+  "candidate_id": "0005",
+  "parent_id": "0002",
+  "timestamp": "2026-05-07T02:21:43",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1200.0,
+    "r": 575.0,
+    "h": 105.98,
+    "d": 112.61,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 233.60000610351562,
+    "abs_at_peak": 0.9395105162034925,
+    "fwhm_thz": 9.350700780080246,
+    "score": 40.19000610351563,
+    "freq_error": 40.19000610351563,
+    "abs_penalty": 0.0,
+    "solve_duration_s": 80.17744970321655,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_04\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_02-10-06\\hypothesis_A_disk\\iteration_04\\SZmax1_Zmax1.csv"
+  },
+  "note": "r: 548.46->575.0 | The previous attempts to decrease the radius r resulted in a"
+}

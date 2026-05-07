@@ -1,0 +1,27 @@
+{
+  "candidate_id": "0005",
+  "parent_id": "0002",
+  "timestamp": "2026-05-07T03:23:31",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1300.0,
+    "lx": 300.0,
+    "ly": 900.0,
+    "h": 100.0,
+    "d": 100.0,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 282.3999938964844,
+    "abs_at_peak": 0.9999822426176858,
+    "fwhm_thz": NaN,
+    "score": 88.98999389648438,
+    "freq_error": 88.98999389648438,
+    "abs_penalty": 0.0,
+    "solve_duration_s": 40.0683069229126,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_04\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_04\\SZmax1_Zmax1.csv"
+  },
+  "note": "lx: 500.0->300.0 | The current peak frequency is significantly higher than the "
+}

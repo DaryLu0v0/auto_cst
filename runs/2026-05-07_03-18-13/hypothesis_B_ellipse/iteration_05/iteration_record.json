@@ -1,0 +1,27 @@
+{
+  "candidate_id": "0006",
+  "parent_id": "0002",
+  "timestamp": "2026-05-07T03:24:42",
+  "target_freq_thz": 193.41,
+  "design": {
+    "p": 1300.0,
+    "lx": 500.0,
+    "ly": 450.0,
+    "h": 100.0,
+    "d": 100.0,
+    "t_ground": 100.0
+  },
+  "result": {
+    "valid": true,
+    "f_peak_thz": 299.0,
+    "abs_at_peak": 0.8997918269647636,
+    "fwhm_thz": NaN,
+    "score": 105.59004163460705,
+    "freq_error": 105.59,
+    "abs_penalty": 0.00020817303523645858,
+    "solve_duration_s": 40.06470799446106,
+    "absorptance_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_05\\Absorptance.csv",
+    "s11_csv": "D:\\Claude\\auto_cst\\runs\\2026-05-07_03-18-13\\hypothesis_B_ellipse\\iteration_05\\SZmax1_Zmax1.csv"
+  },
+  "note": "ly: 900.0->450.0 | The current design shows that changes in lx have not signifi"
+}
