@@ -18,6 +18,13 @@ nir/*.log
 runs/**/working_*.cst
 runs/**/working_*/
 
+# Slide-deck build output (regeneratable from build_slides.js + the PNG):
+#   - node_modules/   pulled in by `npm install pptxgenjs`
+#   - slide-*.jpg     intermediate images from PDF rasterization (visual QA only)
+# We DO commit the .pptx and .pdf themselves -- those are the deliverables.
+runs/node_modules/
+runs/slide-*.jpg
+
 # Python
 __pycache__/
 *.pyc

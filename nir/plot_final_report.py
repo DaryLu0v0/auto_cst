@@ -63,7 +63,7 @@ for ax in (ax_thz, ax_nm):
 
 ax_thz.set_xlabel("Frequency (THz)")
 ax_thz.set_xlim(100, 300)
-ax_thz.set_title("auto_cst NIR absorbers — A / B / C, final spectra")
+# (no title -- the embedding deck slide carries the title)
 
 ax_nm.set_xlabel("Wavelength (nm)")
 ax_nm.set_xlim(1000, 3000)
